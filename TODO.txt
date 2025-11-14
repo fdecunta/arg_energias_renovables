@@ -1,0 +1,2 @@
+- WRITE SQL WITH TWO TABLES: one for generation, one for supply.
+The main file has weird rows with "Demanda MEM". Those are values from demand, not generation.
